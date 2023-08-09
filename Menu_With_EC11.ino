@@ -7,10 +7,6 @@
 #include <math.h>
 
 #include <SPI.h>
-#include <SD.h>
-#include <SPI.h>
-#include <ArduinoJson.h>
-#include <StreamUtils.h>
 
 #define BUTTON_PIN  5
 
